@@ -1,0 +1,69 @@
+body{
+    background-image: url("http://localhost/(webDesain)/CValam/img/yy.jpg");
+    background-position: center;
+    background-size: auto;
+}
+
+
+header{
+    background-image: url("http://localhost/(webDesain)/CValam/img/yayaya.jpg") ;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    
+}
+.hmm{
+    background-color: rgba(66, 21, 0, 0.534);
+}
+
+.hmm p{
+    color: #ffffff;
+}
+
+.hmm h3{
+    color: #ffffff;
+}
+
+.eh{
+    background-color: #8d8d8d91;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a{
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+nav a :hover{
+    color:#8d8d8d;
+}
+
+
+
+
+div{
+   background-image: url("http://localhost/(webDesain)/CValam/img/yayaya.jpg");
+}
+h2{
+    color: aquamarine;
+}
+
+
+footer{
+    background-color: #fff;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 50px;
+}
